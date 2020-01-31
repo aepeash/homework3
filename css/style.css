@@ -97,7 +97,7 @@ tbody tr:last-child th:first-child{
 tbody tr:last-child td:last-child{
     border-bottom-right-radius: 15px;
 }
-footer>p{
+footer{
     position:fixed;
     min-height: 60px;
     left:0px;
@@ -105,5 +105,8 @@ footer>p{
     width:100%;
     background:black;
     text-align:center;
+    
+}
+footer>p{
     color: white;
 }
